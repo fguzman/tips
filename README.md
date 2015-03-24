@@ -10,8 +10,6 @@ Completed user stories:
  
  * [x] Optional: Added a startup image, app icons, an initial animation and changed the layout/font/fontsizes/colors of the app.
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
-
 Walkthrough of all user stories: 
 
 ![Tabber|250](http://i.imgur.com/5E6HpCI.gif)
