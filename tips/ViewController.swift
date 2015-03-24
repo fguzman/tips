@@ -17,15 +17,19 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
+        
+        totalLabel.adjustsFontSizeToFitWidth = true;
+        billField.adjustsFontSizeToFitWidth = true;
+        
+        billField.becomeFirstResponder();
         
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
     @IBAction func onEditingChanged(sender: AnyObject) {
