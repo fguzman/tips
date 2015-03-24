@@ -16,6 +16,5 @@ Walkthrough of all user stories:
 
 ![Tabber|250](http://i.imgur.com/5E6HpCI.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-[shoutout to spring library]
-[shoutout to font awesome for app icon]
+GIF created with [LiceCap](http://www.cockos.com/licecap/) <br>
+Used [Meng To's Spring Library] (https://github.com/MengTo/Spring) for initial Animation
